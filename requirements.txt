@@ -1,0 +1,13 @@
+numpy
+librosa
+scikit-learn
+matplotlib
+pillow
+customtkinter
+sounddevice
+soundfile
+joblib
+requests
+pandas
+torch
+torchvision
