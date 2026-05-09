@@ -2,6 +2,10 @@
 
 A machine learning-based Pokémon cry recognition system built with Python.
 
+## GUI Preview
+
+![GUI](screenshots/GUI_demo01.png)
+
 This project recognizes Pokémon from audio input using MFCC feature extraction and a RandomForest classifier, with a desktop GUI that supports:
 
 * Audio file selection
